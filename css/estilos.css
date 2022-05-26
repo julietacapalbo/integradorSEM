@@ -1,0 +1,73 @@
+#contenedor {
+    margin: 0px auto;
+    width: 100%;
+}
+
+
+
+#principal {
+    width: 100%;
+    float: left;
+    background-color: #bad8f3;
+    background-image: url(../imagenes/planta.png);
+}
+
+#fondo_login {
+    background: url(../imagenes/login.png) 0 0 repeat transparent;
+    width: 1024px;
+    height: 350px;
+}
+
+#clave{
+    margin-left: 2px;
+}
+
+#login {
+    margin-left: 250px;
+    padding-top: 200px;
+    float: left;
+    text-align: left;
+}
+
+#login input {
+    border: none;
+    min-width: 200px;
+    width: 115px;
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    text-align: left;
+}
+
+.dos {
+    margin-left: 17px;
+}
+
+#login label {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#login button {
+    margin-left: 200px;
+    margin-top: 10px;
+    width: 120px;
+    height: 41px;
+    border: none;
+    background: url(../imagenes/ingresar.png);
+}
+
+body{
+    background-color: #ebebeb;
+}
+
+.main{
+    margin: 1%;
+}
+
+.main input{
+    margin-left: 5px;
+}
+
+
