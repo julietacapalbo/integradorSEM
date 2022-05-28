@@ -10,7 +10,7 @@ if(isset($_GET['ingresar']) && ($_GET['ingresar']=="ok"))
         if(mysqli_num_rows($sql)!=0)
         {
             echo "<script>alert('Usuario Logueado');</script>";
-            echo "<script>window.location='http://localhost/integradorSEM/home.php';</script>";
+            echo "<script>window.location='../home.php';</script>";
         } else
             {
                 echo "<script>alert('Usuario o clave incorrecta');</script>";

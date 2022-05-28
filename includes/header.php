@@ -14,29 +14,29 @@
   <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="http://localhost/integradorSEM/home.php">Inicio</a>
+        <a class="navbar-brand" href="../home.php">Inicio</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="true" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href='http://localhost/integradorSEM/pantalla/roles.php' style="cursor: hand;">Roles</a>
+              <a class="nav-link" href='../pantalla/roles.php' style="cursor: hand;">Roles</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href='http://localhost/integradorSEM/pantalla/usuarios.php' style="cursor: hand;">Usuarios</a>
+              <a class="nav-link" href='../pantalla/usuarios.php' style="cursor: hand;">Usuarios</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href='http://localhost/integradorSEM/pantalla/paises.php' style="cursor: hand;">Países</a>
+              <a class="nav-link" href='../pantalla/paises.php' style="cursor: hand;">Países</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href='http://localhost/integradorSEM/pantalla/provincias.php' style="cursor: hand;">Provincias</a>
+              <a class="nav-link" href='../pantalla/provincias.php' style="cursor: hand;">Provincias</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href='http://localhost/integradorSEM/pantalla/localidades.php' style="cursor: hand;">Ciudades</a>
+              <a class="nav-link" href='../pantalla/localidades.php' style="cursor: hand;">Ciudades</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href='http://localhost/integradorSEM/pantalla/personas.php' style="cursor: hand;">Personas</a>
+              <a class="nav-link" href='../pantalla/personas.php' style="cursor: hand;">Personas</a>
             </li>
           </ul>
         </div>
